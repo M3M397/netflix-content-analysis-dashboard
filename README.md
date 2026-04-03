@@ -46,7 +46,6 @@ This project presents a comprehensive analysis of Netflix's content dataset usin
 ---
 
 ## 📈 Features
-- Interactive dashboard
 - Genre and country analysis
 - Content growth trends
 - Rating distribution insights
